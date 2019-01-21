@@ -22,6 +22,25 @@
   color: #61dafb;
 }
 
+.fa-heart{
+  color: red;
+}
+
+.fa:hover{
+  cursor: pointer;
+}
+
+.fa-heart span{
+  color: #000;
+}
+
+.fa-retweet {
+  margin-right: 20px;
+}
+
+.card{
+  margin-bottom: 20px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
